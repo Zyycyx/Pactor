@@ -1,0 +1,5 @@
+gcc
+xorriso
+grub
+qemu-system
+mtools
